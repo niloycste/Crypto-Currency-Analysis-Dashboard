@@ -13,5 +13,6 @@ source env/Scripts/activate
 ```bash
 pip install -r requirement.txt
 ```
+4. Download Firefox Webdriver: https://github.com/mozilla/geckodriver/releases
 
 Tableau Public View: https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto
