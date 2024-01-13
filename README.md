@@ -1,7 +1,8 @@
 # Crypto-Currency-Analysis-Dashboard
 ## Problem Statement: Cryptocurrency Market Analysis
 The objective of this Crypto analysis is to gain valuable insights into the cryptocurrency market from [this website](https://www.coingecko.com/en/all-cryptocurrencies).<br/> 
-I collected the data using selenium library.Anyone interested can find the code [here](coingeckoupdated.py).<br/>
+I collected the data using selenium library.Anyone interested can find the code [here](coingeckoupdated.py) or can also find the dataset in Kaggle from this [link](https://www.kaggle.com/datasets/mmohaiminulislam/crypto-currency-datasets).<br/>
+
 Later I utilized the scraped data to understand the following Trends and relations using Tableau Dashboard:
 
 1. Performance Trends: Visualize and compare the performance trends (1h, 24h, 7d, 30d) of different cryptocurrencies based on their respective Coin Names.
