@@ -15,7 +15,7 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 
 1. Identification of top-performing cryptocurrencies based on various metrics like Top 10 crypto base don price, highest trading over last 24 hours, top crypto based on circulating supply, and total market cap.
     
-
+<table>
   <tr>
     <td><img src="images/top 10 crypto base on price.png" alt="Top 10 Crypto by Price"></td>
     <td><img src="images/24h volume.png" alt="24-Hour Volume"></td>
@@ -24,6 +24,8 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
     <td><img src="images/supply.png" alt="Supply"></td>
     <td><img src="images/market cap.png" alt="Market Cap"></td>
   </tr>
+
+
 
 
 
@@ -43,6 +45,8 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 4. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market like total current price, total 24-hour volume, total circulating supply, and total market cap.<br/>
 
    <img src = "images/metrics.png" width="" height=""> <br/>
+
+</table>   
    
 
 **There are two dashboards so click the button to go to the next dashboard and vice versa.** <br/>
