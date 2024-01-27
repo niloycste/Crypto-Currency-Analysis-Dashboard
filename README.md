@@ -15,10 +15,17 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 
 1. Identification of top-performing cryptocurrencies based on various metrics like Top 10 crypto base don price, highest trading over last 24 hours, top crypto based on circulating supply, and total market cap.
     
-     <img src = "images/top 10 crypto base on price.png" width="" height="">
-     <img src = "images/24h volume.png" width="" height=""> <br/>
-     <img src = "images/supply.png" width="" height="">
-     <img src = "images/market cap.png" width="" height=""> <br/>
+   <table>
+  <tr>
+    <td><img src="images/top 10 crypto base on price.png" alt="Top 10 Crypto by Price"></td>
+    <td><img src="images/24h volume.png" alt="24-Hour Volume"></td>
+  </tr>
+  <tr>
+    <td><img src="images/supply.png" alt="Supply"></td>
+    <td><img src="images/market cap.png" alt="Market Cap"></td>
+  </tr>
+</table>
+
 
 2. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
    
