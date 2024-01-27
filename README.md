@@ -29,7 +29,8 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
    <img src = "images/metrics.png" width="" height=""> <br/>
    
 
-There are two dashboards so click the button to go to the next dashboard and vice versa.<br/>
+**There are two dashboards so click the button to go to the next dashboard and vice versa.** <br/>
+
 <img src = "crypto1.png" width="1200" height="400"> <br/>
 <img src = "crypto2.png" width="1200" height="400">
 
