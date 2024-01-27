@@ -5,11 +5,30 @@ I collected the data using selenium library.Anyone interested can find the code 
 
 Later I utilized the scraped data to understand the following Trends and relations using Tableau Dashboard:
 
+
 1. Performance Trends: Visualize and compare the performance trends (1h, 24h, 7d, 30d) of different cryptocurrencies based on their respective Coin Names.
 2. Market Metrics Overview: Create comprehensive visualizations comparing Top Coin Names against essential metrics, including Price, 24-hour Volume, Circulating Supply, and Market Cap.
 3. Aggregate Metrics: Calculate and visualize aggregate metrics such as Total Market Cap, Total 24-hour Volume, and Total Circulating Supply across all cryptocurrencies.
 
 You can visit the public dashboard from [here](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
+
+## Column Name & Description
+I have a total of 12 columns.
+
+1. **Rank**: The ranking of the cryptocurrency based on certain criteria (e.g., market capitalization).
+2. **Coin Name**: The name of the cryptocurrency.
+3. **Symbol**: The symbol or ticker used to represent the cryptocurrency in exchanges.
+4. **Price**: The current price of one unit of the cryptocurrency.
+5. **1h**: The percentage change in price over the last 1 hour.
+6. **24h**: The percentage change in price over the last 24 hours.
+7. **7d**: The percentage change in price over the last 7 days.
+8. **30d**: The percentage change in price over the last 30 days.
+9. **24h Volume**: The trading volume of the cryptocurrency over the last 24 hours.
+10. **Circulating Supply**: The amount of the cryptocurrency that is currently in circulation.
+11. **Total Supply**: The total amount of the cryptocurrency that can ever exist.
+12. **Market Cap**: The market capitalization of the cryptocurrency, calculated by multiplying the current price by the circulating supply.
+
+
 
 ## Expected Insights from the [Dashboard](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
 
