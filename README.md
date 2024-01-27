@@ -14,10 +14,10 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 ## Expected Insights from the [Dashboard](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
 
 1. Identification of top-performing cryptocurrencies based on various metrics like Top 10 crypto base don price, highest trading over last 24 hours, top crypto based on circulating supply, and total market cap.
-    <img src = "images/metrics.png" width="" height=""> <br/>
-     <img src = "images/top 10 crypto base on price.png" width="" height=""> <br/>
+    
+     <img src = "images/top 10 crypto base on price.png" width="" height="">
      <img src = "images/24h volume.png" width="" height=""> <br/>
-     <img src = "images/supply.png" width="" height=""> <br/>
+     <img src = "images/supply.png" width="" height="">
      <img src = "images/market cap.png" width="" height=""> <br/>
 
 
