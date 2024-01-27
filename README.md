@@ -20,14 +20,11 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
      <img src = "images/supply.png" width="" height="">
      <img src = "images/market cap.png" width="" height=""> <br/>
 
-
-
-    
-   
-   
-   
-   
-3. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
+2. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
+     <img src = "images/1h.png" width="" height=""> 
+     <img src = "images/24h.png" width="" height=""> <br/>
+     <img src = "images/7d.png" width="" height="">
+     <img src = "images/30d.png" width="" height=""> <br/>
 4. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market like total current price,total 24-hour volume, total circulating supply and total market cap.<br/>
    <img src = "images/metrics.png" width="" height=""> <br/>
    
