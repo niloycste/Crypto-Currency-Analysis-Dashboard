@@ -12,9 +12,14 @@ Later I utilized the scraped data to understand the following Trends and relatio
 You can visit the public dashboard from [here](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
 
 ## Expected Insights from the [Dashboard](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
+
 1. Identification of top-performing cryptocurrencies based on various metrics.
-2. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
-3. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market.
+   -
+   
+3. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
+4. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market like total current price,total 24-hour volume, total circulating supply and total market cap.<br/>
+   <img src = "crypto2.png" width="1200" height="400"> <br/>
+   
 
 There are two dashboards so click the button to go to the next dashboard and vice versa.<br/>
 <img src = "crypto1.png" width="1200" height="400"> <br/>
