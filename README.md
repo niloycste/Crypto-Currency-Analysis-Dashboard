@@ -12,8 +12,8 @@ Later I utilized the scraped data to understand the following Trends and relatio
 
 You can visit the public dashboard from [here](https://public.tableau.com/app/profile/niloy/viz/Crypto-CurrencyAnalysisDashboard/OverallAnalysisOfCrypto).<br/>
 
-## Column Name & Description
-I have a total of 12 columns.
+## Columns Name & Description
+This crypto dataset has a total of 12 columns.
 
 1. **Rank**: The ranking of the cryptocurrency based on certain criteria (e.g., market capitalization).
 2. **Coin Name**: The name of the cryptocurrency.
