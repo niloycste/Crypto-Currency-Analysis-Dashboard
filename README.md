@@ -18,7 +18,7 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
    
 3. Exploration of trends and patterns in the cryptocurrency market over different time intervals.
 4. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market like total current price,total 24-hour volume, total circulating supply and total market cap.<br/>
-   <img src = "images/metrics.png" width="1200" height="400"> <br/>
+   <img src = "images/metrics.png" width="" height=""> <br/>
    
 
 There are two dashboards so click the button to go to the next dashboard and vice versa.<br/>
