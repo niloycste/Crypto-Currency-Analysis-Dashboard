@@ -17,6 +17,8 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 3. Understanding the aggregated market metrics to assess the overall health of the cryptocurrency market.
 
 There are two dashboards so click the button to go to the next dashboard and vice versa.
+<img src = "crypto1.png" width="1200" height="400"> <br/>
+<img src = "crypto2.png" width="1200" height="400">
 
 ## Build From Sources & Selenium Scraper 
 1. Clone the repo
