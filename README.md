@@ -24,6 +24,7 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
     <td><img src="images/supply.png" alt="Supply"></td>
     <td><img src="images/market cap.png" alt="Market Cap"></td>
   </tr>
+  </table>   
 
 
 
@@ -46,7 +47,7 @@ You can visit the public dashboard from [here](https://public.tableau.com/app/pr
 
    <img src = "images/metrics.png" width="" height=""> <br/>
 
-</table>   
+
    
 
 **There are two dashboards so click the button to go to the next dashboard and vice versa.** <br/>
